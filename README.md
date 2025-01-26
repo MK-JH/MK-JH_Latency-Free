@@ -1,6 +1,6 @@
 # MK-JH_Latency Free
 
-This App Add Antilag2 & LatencyFLX For All Games And Reduces input lag
+This App Adds Antilag2 & LatencyFLX For All Games And Reduces input lag
 
 (Use Only For Ofline Games)
 Only For AMD & iNTELL Gpus
