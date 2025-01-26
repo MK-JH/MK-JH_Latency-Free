@@ -27,6 +27,7 @@ apply This Settings In RivaTuner
 
 After Do This
 Install AntiLag2 & LatencyFLX with Configs In game EXE Directory
+
 Enjoy
 
 # Key points:
