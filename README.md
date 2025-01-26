@@ -1,20 +1,20 @@
-#MK-JH_Latency Free
+# MK-JH_Latency Free
 
 This App Add Antilag2 & LatencyFLX For All Games And Reduces input lag
 
 (Use Only For Ofline Games)
 Only For AMD & iNTELL Gpus
 
-Warning
+# Warning
 
 Dont Use In Nvidia Gpus
 
 AND
 
-Full Unistall Antilag2 & LatencyFLX Befor Play Online Games
+# Full Unistall Antilag2 & LatencyFLX Befor Play Online Games
 ![1](https://github.com/user-attachments/assets/8ac595bb-bbcb-4047-b308-f27256a2433d)
 
-Installation Method:
+# Installation Method:
 Install MSI Afterburner & RivaTuner Statistics Server Latest Version
 And
 Aplly This Settings In RivaTuner 
@@ -28,7 +28,7 @@ After Do This
 Install AntiLag2 & LatencyFLX with Configs In game EXE Directory
 Enjoy
 
-Key points:
+# Key points:
 
 1-AntiLag2 Dont Work With FSR3 FG For Use With FSR3 FG Install LatencyFLX Config For All Gpus
 
