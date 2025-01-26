@@ -1,4 +1,4 @@
-MK-JH_Latency Free
+#MK-JH_Latency Free
 
 This App Add Antilag2 & LatencyFLX For All Games And Reduces input lag
 
