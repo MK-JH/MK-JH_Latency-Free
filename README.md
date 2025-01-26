@@ -26,5 +26,7 @@ Install AntiLag2 & LatencyFLX with Configs In game EXE Directory
 Enjoy
 
 Key points:
+
 1-AntiLag2 Dont Work With FSR3 FG For Use With FSR3 FG Install LatencyFLX Config For All Gpus
+
 2-AntiLag2 &LatencyFLX Work Fine With LossLess Scaling And Can use And Enjoy
