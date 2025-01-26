@@ -35,6 +35,4 @@ Enjoy
 
 1-AntiLag2 Dosnt Work With FSR3 FG For Use With FSR3 FG Install LatencyFLX Config For All Gpus
 
-2-AntiLag2 &LatencyFLX Work Fine With LossLess Scaling And Can use 
-
-And Enjoy
+2-AntiLag2 &LatencyFLX Work Fine With LossLess Scaling And Can use And Enjoy
