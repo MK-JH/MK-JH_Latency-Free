@@ -6,8 +6,11 @@ This App Add Antilag2 & LatencyFLX For All Games And Reduces input lag
 Only For AMD & iNTELL Gpus
 
 Warning
+
 Dont Use In Nvidia Gpus
+
 AND
+
 Full Unistall Antilag2 & LatencyFLX Befor Play Online Games
 ![1](https://github.com/user-attachments/assets/8ac595bb-bbcb-4047-b308-f27256a2433d)
 
