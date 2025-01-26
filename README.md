@@ -11,13 +11,14 @@ Dont Use In Nvidia Gpus
 
 AND
 
-# Full Unistall Antilag2 & LatencyFLX Befor Play Online Games
-![1](https://github.com/user-attachments/assets/8ac595bb-bbcb-4047-b308-f27256a2433d)
+# Full Uninstall Antilag2 & LatencyFLX Before Play Online Games
+![Untitled](https://github.com/user-attachments/assets/360550c4-bf61-4b79-9cba-f6f87c5932f5)
+
 
 # Installation Method:
 Install MSI Afterburner & RivaTuner Statistics Server Latest Version
 And
-Aplly This Settings In RivaTuner 
+apply This Settings In RivaTuner 
 ![r (1)](https://github.com/user-attachments/assets/fd66169c-b97c-48d7-8f7a-6b0fd629341d)
 
 ![Untitled](https://github.com/user-attachments/assets/478ff3d1-6ba4-4c3f-91fe-cce0d9e33e1b)
@@ -30,6 +31,6 @@ Enjoy
 
 # Key points:
 
-1-AntiLag2 Dont Work With FSR3 FG For Use With FSR3 FG Install LatencyFLX Config For All Gpus
+1-AntiLag2 Dosnt Work With FSR3 FG For Use With FSR3 FG Install LatencyFLX Config For All Gpus
 
 2-AntiLag2 &LatencyFLX Work Fine With LossLess Scaling And Can use And Enjoy
